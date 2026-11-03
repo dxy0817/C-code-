@@ -1,0 +1,5 @@
+﻿  牛顿迭代法.cpp
+C:\Users\bjyxs\source\repos\牛顿迭代法\牛顿迭代法\牛顿迭代法.cpp(7,33): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\bjyxs\source\repos\牛顿迭代法\牛顿迭代法\牛顿迭代法.cpp(10,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\bjyxs\source\repos\牛顿迭代法\牛顿迭代法\牛顿迭代法.cpp(15,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  牛顿迭代法.vcxproj -> C:\Users\bjyxs\source\repos\牛顿迭代法\牛顿迭代法\x64\Debug\牛顿迭代法.exe

@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+C:\Users\bjyxs\source\repos\实验\实验\FileName.cpp(30,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\Users\bjyxs\source\repos\实验\实验\FileName.cpp(30,9):
+      请考虑在格式字符串中使用“%zd”
+  
+  实验.vcxproj -> C:\Users\bjyxs\source\repos\实验\x64\Debug\实验.exe

@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\bjyxs\source\repos\判断一个数是不是水仙花数\判断一个数是不是水仙花数\FileName.cpp(10,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\bjyxs\source\repos\判断一个数是不是水仙花数\判断一个数是不是水仙花数\FileName.cpp(13,14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  判断一个数是不是水仙花数.vcxproj -> C:\Users\bjyxs\source\repos\判断一个数是不是水仙花数\判断一个数是不是水仙花数\x64\Debug\判断一个数是不是水仙花数.exe

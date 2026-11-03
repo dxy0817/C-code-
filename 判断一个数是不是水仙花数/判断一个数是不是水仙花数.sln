@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "判断一个数是不是水仙花数", "判断一个数是不是水仙花数\判断一个数是不是水仙花数.vcxproj", "{681391D3-1F5A-4EFF-9C38-9C8F63DAA728}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{681391D3-1F5A-4EFF-9C38-9C8F63DAA728}.Debug|x64.ActiveCfg = Debug|x64
+		{681391D3-1F5A-4EFF-9C38-9C8F63DAA728}.Debug|x64.Build.0 = Debug|x64
+		{681391D3-1F5A-4EFF-9C38-9C8F63DAA728}.Debug|x86.ActiveCfg = Debug|Win32
+		{681391D3-1F5A-4EFF-9C38-9C8F63DAA728}.Debug|x86.Build.0 = Debug|Win32
+		{681391D3-1F5A-4EFF-9C38-9C8F63DAA728}.Release|x64.ActiveCfg = Release|x64
+		{681391D3-1F5A-4EFF-9C38-9C8F63DAA728}.Release|x64.Build.0 = Release|x64
+		{681391D3-1F5A-4EFF-9C38-9C8F63DAA728}.Release|x86.ActiveCfg = Release|Win32
+		{681391D3-1F5A-4EFF-9C38-9C8F63DAA728}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C10F00AC-BA8F-49D2-A3AB-1A2EEE69FC0F}
+	EndGlobalSection
+EndGlobal

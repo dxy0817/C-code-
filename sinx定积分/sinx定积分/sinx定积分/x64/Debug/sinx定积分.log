@@ -1,0 +1,7 @@
+﻿  sinx的定积分.cpp
+C:\Users\bjyxs\source\repos\sinx定积分\sinx定积分\sinx的定积分.cpp(1,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\bjyxs\source\repos\sinx定积分\sinx定积分\sinx的定积分.cpp(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\bjyxs\source\repos\sinx定积分\sinx定积分\sinx的定积分.cpp(3,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\bjyxs\source\repos\sinx定积分\sinx定积分\sinx的定积分.cpp(9,9): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\bjyxs\source\repos\sinx定积分\sinx定积分\sinx的定积分.cpp(16,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  sinx定积分.vcxproj -> C:\Users\bjyxs\source\repos\sinx定积分\sinx定积分\x64\Debug\sinx定积分.exe

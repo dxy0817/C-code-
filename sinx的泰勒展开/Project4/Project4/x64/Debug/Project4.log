@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\bjyxs\source\repos\Project4\Project4\FileName.cpp(9,10): warning C4475: “scanf_s”: 不可在格式说明符中将长度修饰符“ll”与类型字段字符“f”一起使用
+C:\Users\bjyxs\source\repos\Project4\Project4\FileName.cpp(19,9): warning C4475: “printf”: 不可在格式说明符中将长度修饰符“ll”与类型字段字符“f”一起使用
+  Project4.vcxproj -> C:\Users\bjyxs\source\repos\Project4\Project4\x64\Debug\Project4.exe
